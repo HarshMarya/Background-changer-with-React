@@ -1,8 +1,4 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#BG_COLOR_CHANGER
+1. OBJECTIVE: TRY TO LEARN BASICS OF TAILWIND AND HOW COMPONENT WORKS
+2. WORKING: ON THE CLICK OF VARIOUS BUTTON THE BACKGROUND COLOR CHANGES ACCORDING TO THE BUTTON COLOR
+3. LEARINIG: TAILWIND BASIC AND USE OF COMPONENTS WITH MAP FUNCTION
